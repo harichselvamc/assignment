@@ -1,0 +1,14 @@
+torch
+fastapi
+openai
+uvicorn
+celery
+redis
+psycopg2-binary
+transformers
+pydantic
+pytest
+pytest-asyncio
+python-multipart
+prometheus-client
+python-dotenv
