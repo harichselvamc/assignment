@@ -48,7 +48,7 @@ Here’s an example of what it should contain:
 DATABASE_URL=postgresql://user:password@db:5432/moderation_db
 REDIS_URL=redis://redis:6379/0
 CELERY_BROKER_URL=redis://redis:6379/0
-OPENAI_API_KEY=your-openai-api-key
+OPENAI_API_KEY=openai-api-key
 ```
 # Run the App with Docker
 
